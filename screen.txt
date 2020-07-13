@@ -1,0 +1,10 @@
+|++++++++++++++++++++++++++++++++++++++++++|
+|      WELCOME TO PASSWORD GENERATOR       |
+|                                          |
+| WHAT KIND OF PASSWORD PASS DO YOU WANT?  |
+|                                          |
+| > Just numbers............(1)            |
+| > Just characters.........(2)            |
+| > Character and numbers...(3)            |
+|                                          |
+|++++++++++++++++++++++++++++++++++++++++++|
