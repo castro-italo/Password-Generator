@@ -1,6 +1,6 @@
 # Password Generator
 
-[You can download the .exe file here](https://www.google.com) 
+[You can download the .exe file here](https://github.com/castro-italo/Password-Generator/blob/master/main.exe) 
 
 #### The Usage
 
